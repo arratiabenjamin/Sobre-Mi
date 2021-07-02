@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BenjaminArratia
+- 👀 I’m interested in the programming
+- 🌱 I’m currently learning web developement
