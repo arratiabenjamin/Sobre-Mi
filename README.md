@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @BenjaminArratia
-- 👀 I’m interested in the programming
-- 🌱 I’m currently learning web developement
+- 👋 Hola, Me llamo @Benjamin Arratia Santibañez
+- 👀 Estoy muy interesado en la progrmación
+- 🌱 Por el momento estoy estudiando desarrollo web
